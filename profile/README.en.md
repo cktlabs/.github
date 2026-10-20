@@ -6,7 +6,7 @@
 
 We automate manual processes, build digital products, and bring software engineering, AI, and security into one engagement. We work with startups and established companies, from scoping through deployment and support.
 
-**Building since 2021 · 30+ systems delivered · 20+ specialists** — [meet the team](https://cktlabs.ru/en/team).
+**Building since 2021 · 30+ systems delivered · 20+ specialists** — [meet the team](https://cktlabs.ru/en/team) · [one-page overview (PDF)](https://github.com/cktlabs/portfolio/blob/main/brief/CKT_Labs_Overview_EN.pdf).
 
 **[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs) · [Explore our work](https://github.com/cktlabs/portfolio/blob/main/README.en.md)
 
