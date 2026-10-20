@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">CKT Labs</title><desc id="desc">From a business problem to a working system.. Product development · AI &amp; automation · Security</desc>
+  <rect width="1200" height="260" rx="18" fill="#04070e"/>
+  <path d="M880 0v260M960 0v260M1040 0v260M1120 0v260M800 60h400M800 140h400M800 220h400" stroke="#142538" stroke-width="1"/>
+  <circle cx="1040" cy="140" r="82" fill="none" stroke="#01ffc3" stroke-opacity=".17"/>
+  <g transform="translate(48 41) scale(.62)">
+    <path d="M18 8V92M18 50L74.4 14.5M18 50L74.4 85.5" stroke="#01ffc3" stroke-width="11.5" stroke-linecap="round" fill="none"/>
+    <circle cx="18" cy="50" r="10.2" fill="#01ffc3"/><circle cx="74.4" cy="14.5" r="10.2" fill="#01ffc3"/><circle cx="74.4" cy="85.5" r="10.2" fill="#01ffc3"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="118" y="91" fill="#ffffff" font-size="47" font-weight="700">CKT Labs</text>
+    <text x="48" y="157" fill="#ffffff" font-size="32" font-weight="600">From a business problem to a working system.</text>
+    <text x="48" y="204" fill="#a3b4c9" font-size="20">Product development · AI &amp; automation · Security</text>
+    <text x="983" y="246" fill="#01ffc3" font-size="15" letter-spacing="1.8">cktlabs.ru</text>
+  </g>
+</svg>
