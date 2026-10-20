@@ -1,4 +1,4 @@
-[English version](https://github.com/cktlabs/.github/blob/main/profile/README.en.md) · [Сайт](https://cktlabs.ru/ru) · [Кейсы](https://github.com/cktlabs/portfolio)
+[English](https://github.com/cktlabs/.github/blob/main/profile/README.en.md) · [Кейсы](https://github.com/cktlabs/portfolio) · [Обсудить проект](mailto:nickolaychekotko@gmail.com?subject=CKT%20Labs%20%E2%80%94%20GitHub%20project)
 
 ![CKT Labs — от задачи бизнеса к работающей системе](https://raw.githubusercontent.com/cktlabs/.github/main/assets/cover-ru.svg)
 
@@ -8,7 +8,7 @@
 
 **С 2021 года · 30+ реализованных систем · 20+ специалистов** — [о команде](https://cktlabs.ru/ru/team).
 
-**[Обсудить задачу в Telegram →](https://t.me/cktlabs)** · [Написать основателю](mailto:nickolaychekotko@gmail.com) · [Посмотреть работы](https://github.com/cktlabs/portfolio)
+**[Обсудить задачу →](mailto:nickolaychekotko@gmail.com?subject=CKT%20Labs%20%E2%80%94%20GitHub%20project)** · [Форма связи](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry) · [Посмотреть работы](https://github.com/cktlabs/portfolio)
 
 ### С чем к нам приходят
 
@@ -21,11 +21,9 @@
 
 ### Примеры реализованных проектов
 
-| Проект | Что сделали | Результат или масштаб |
-| --- | --- | --- |
-| **[Invoicer](https://github.com/cktlabs/portfolio/blob/main/cases/invoicer.md)** | Обработка счетов с AI и интеграцией с 1С | **−80% времени ручной обработки** в опубликованном кейсе. |
-| **[Phisher](https://github.com/cktlabs/portfolio/blob/main/cases/phisher.md)** | Обучение сотрудников распознавать фишинг | **400+ шаблонов**, управление кампаниями и отчётность. |
-| **[Finder](https://github.com/cktlabs/portfolio/blob/main/cases/finder.md)** | Бронирование ресторанов и ML-чатбот | Свободные места в реальном времени, брони и поддержка клиентов. |
+- **[Invoicer](https://github.com/cktlabs/portfolio/blob/main/cases/invoicer.md) — −80% времени ручной обработки счетов.** AI-извлечение данных, проверка и интеграция с 1С.
+- **[Phisher](https://github.com/cktlabs/portfolio/blob/main/cases/phisher.md) — 400+ шаблонов учебных атак.** Обучение сотрудников безопасности, управление кампаниями и отчётность.
+- **[Finder](https://github.com/cktlabs/portfolio/blob/main/cases/finder.md) — бронирование и поддержка клиентов.** Свободные места в реальном времени, брони и ML-чатбот.
 
 [Все публичные кейсы →](https://github.com/cktlabs/portfolio)
 
@@ -46,4 +44,4 @@
 
 Напишите, какой процесс или продукт нужно изменить, что работает сейчас и какие сроки важны. Первый разговор — бесплатный, ответ в течение 48 часов.
 
-**[Написать в Telegram →](https://t.me/cktlabs)** · [Email](mailto:nickolaychekotko@gmail.com) · [Короткий бриф](https://github.com/cktlabs/portfolio/blob/main/project-brief.md)
+**[Написать основателю →](mailto:nickolaychekotko@gmail.com?subject=CKT%20Labs%20%E2%80%94%20GitHub%20project)** · [Форма связи](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry) · [Короткий бриф](https://github.com/cktlabs/portfolio/blob/main/project-brief.md)

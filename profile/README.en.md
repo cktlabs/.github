@@ -8,7 +8,7 @@ We automate manual processes, build digital products, and bring software enginee
 
 **Building since 2021 · 30+ systems delivered · 20+ specialists** — [meet the team](https://cktlabs.ru/en/team).
 
-**[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs) · [Explore our work](https://github.com/cktlabs/portfolio/blob/main/README.en.md)
+**[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs) · [Explore our work](https://github.com/cktlabs/portfolio/blob/main/README.en.md)
 
 ### When to talk to us
 
@@ -21,11 +21,9 @@ We automate manual processes, build digital products, and bring software enginee
 
 ### Selected delivered projects
 
-| Project | What we built | Published outcome or scope |
-| --- | --- | --- |
-| **[Invoicer](https://github.com/cktlabs/portfolio/blob/main/en/cases/invoicer.md)** | AI-assisted invoice processing integrated with 1C | **80% less manual processing time** in the published case. |
-| **[Phisher](https://github.com/cktlabs/portfolio/blob/main/en/cases/phisher.md)** | Phishing simulation and staff security training | **400+ templates**, campaign management, and reporting. |
-| **[Finder](https://github.com/cktlabs/portfolio/blob/main/en/cases/finder.md)** | Restaurant booking and an ML-powered chatbot | Real-time availability, reservations, and customer support. |
+- **[Invoicer](https://github.com/cktlabs/portfolio/blob/main/en/cases/invoicer.md) — 80% less manual invoice processing time.** AI-assisted extraction, validation, and 1C integration.
+- **[Phisher](https://github.com/cktlabs/portfolio/blob/main/en/cases/phisher.md) — 400+ phishing simulation templates.** Staff training, campaign management, and reporting.
+- **[Finder](https://github.com/cktlabs/portfolio/blob/main/en/cases/finder.md) — booking and customer support.** Real-time availability, reservations, and an ML chatbot.
 
 [All public case studies →](https://github.com/cktlabs/portfolio/blob/main/README.en.md)
 
@@ -46,4 +44,4 @@ Nikolay Chekotko is the founder and lead architect. Vlad Kovalev is the co-found
 
 Tell us what needs to change, what is already in place, and your main timeline constraints. The initial scoping conversation is free; we respond within 48 hours.
 
-**[Email the founder →](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs) · [Short project brief](https://github.com/cktlabs/portfolio/blob/main/en/project-brief.md)
+**[Email the founder →](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs) · [Short project brief](https://github.com/cktlabs/portfolio/blob/main/en/project-brief.md)
